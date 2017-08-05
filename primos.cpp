@@ -2,6 +2,7 @@
 #include <iostream>
 
 using namespace std;
+
 int main(void){
   for (int i=500; i<=1400; i++){
     int j = 2;
